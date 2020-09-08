@@ -74,7 +74,6 @@ Pygments==2.6.1
 pyjsparser==2.7.1
 pylint==2.4.4
 pyparsing==2.4.6
-pypiwin32==223
 PyPrind==2.11.2
 pyrsistent==0.16.0
 pyserial==3.4
